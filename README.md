@@ -56,4 +56,12 @@ prefixdatastructure.TriePrefixSearchArrayBased footprint:
          1        24        24   prefixdatastructure.TriePrefixSearchArrayBased
    1126004        24  27024096   prefixdatastructure.TriePrefixSearchArrayBased$Node
    1935742           124192560   (total)
+
+
+prefixdatastructure.TriePrefixSearchArrayBasedCompact footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+    809737        24  20233544   [Lprefixdatastructure.TriePrefixSearchArrayBasedCompact$Node;
+         1        24        24   prefixdatastructure.TriePrefixSearchArrayBasedCompact
+   1126004        32  36032128   prefixdatastructure.TriePrefixSearchArrayBasedCompact$Node
+   1935742            56265696   (total)
 ```
